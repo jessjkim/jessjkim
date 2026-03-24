@@ -25,4 +25,4 @@ Skills: Python, SQL, APIs, healthcare data (X12), backend systems
 
 I’ve recently been building small projects to deepen my understanding of AI/LLM applications and how they can be applied to real-world workflows:
 - **[Decode](https://github.com/jessjkim/decode)** — AI-powered web app (OpenAI, Codex, Vercel) that translates CPT medical billing codes into clear, patient-friendly explanations. 
-- **[Career Strategy Agent](https://github.com/jessjkim/career-strategy-agent)** — AI agent (Agno, OpenAI, Streamlit) that turns resumes into targeted job search strategies using structured extraction and industry trend synthesis.
+- **[Career Strategy Agent](https://github.com/jessjkim/career-strategy-agent)** — AI agent (Agno, OpenAI, Streamlit, Python) that turns resumes into targeted job search strategies using structured extraction and industry trend synthesis.
