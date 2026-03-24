@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jessica 👋
 
 <!--
 **jessjkim/jessjkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I’m Jessica — a Product Manager with a background in software engineering, focused on building healthcare infrastructure and data systems.
+
+Most recently at Transcarent, I built a 0→1 billing and claims platform integrating with clearinghouses and payer systems (X12), supporting scale from 1M to 20M members. Previously at Alto Pharmacy, I led development of pricing and billing systems that increased automation from 40% to 85% of deliveries.
+
+I’m particularly interested in healthcare interoperability, data platforms, and building systems that connect fragmented provider, payer, and patient workflows.
+
+Tech: Python, SQL, APIs, healthcare data (X12), backend systems
+
+Featured project:
+- [repo name]&#58; brief 1-line description
