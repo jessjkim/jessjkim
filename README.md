@@ -19,6 +19,9 @@ Hi, I’m Jessica — a Product Manager with a background in software engineerin
 
 Most recently at Transcarent, I built a 0→1 billing and claims platform integrating with clearinghouses and payer systems (X12), supporting scale from 1M to 20M members. Previously at Alto Pharmacy, I led development of pricing and billing systems that increased automation from 40% to 85% of deliveries.
 
+I’m particularly interested in healthcare interoperability, data platforms, and building systems that connect fragmented provider, payer, and patient workflows.
+I’m particularly interested in building systems that translate complex logic into reliable, scalable product experiences — especially in domains with fragmented data, operational workflows, and high user impact.
+
 Skills: Python, SQL, APIs, backend systems, healthcare data (X12)
 
 I’ve recently been building small projects to deepen my understanding of AI/LLM applications and how they can be applied to real-world workflows:
