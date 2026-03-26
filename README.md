@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I’m Jessica — a Product Manager with a background in software engineering, focused on building healthcare infrastructure and data systems.
+Hi, I’m Jessica — a Product Manager with a background in software engineering, focused on building scalable systems and translating complex workflows into reliable product experiences.
 
 Most recently at Transcarent, I built a 0→1 billing and claims platform integrating with clearinghouses and payer systems (X12), supporting scale from 1M to 20M members. Previously at Alto Pharmacy, I led development of pricing and billing systems that increased automation from 40% to 85% of deliveries.
 
