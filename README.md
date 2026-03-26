@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I’m Jessica — a Product Manager with a background in software engineering, focused on building scalable systems and translating complex workflows into reliable product experiences.
 
-Most recently at Transcarent, I built a 0→1 billing and claims platform integrating with clearinghouses and payer systems (X12), supporting scale from 1M to 20M members. Previously at Alto Pharmacy, I led development of pricing and billing systems that increased automation from 40% to 85% of deliveries.
+Most recently at Transcarent, I built a 0→1 billing and claims platform integrating with clearinghouses and payer systems (X12), supporting scale from 1M to 20M members. I also led development of internal tools and data systems for reporting, compliance, and enterprise workflows across multiple care experiences. Previously at Alto Pharmacy, I led development of pricing and billing systems that increased automation from 40% to 85% of deliveries, while also building user-facing checkout experiences, internal operations tooling, and experimentation-driven product improvements across web and mobile.
 
 I’m particularly interested in building systems that translate complex logic into reliable, scalable product experiences, especially in domains with fragmented data, operational workflows, and high user impact.
 
